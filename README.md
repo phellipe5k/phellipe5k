@@ -31,19 +31,8 @@
 <h4 align="center"> 
  I  <i>L O V E</i>  music, I listen everytime that I can and know (a little little bit) how to play guitar ! 
 </h4>
+<h3 align="center"> :arrow_down: SOCIAL MEDIA AND STUFFS, AT THE END :arrow_down: </h3>
 
-
-<div align="center">
- <h4>Follow me around the web</h4>
- <a target="_blank" href="https://open.spotify.com/user/22h65jhto6sw6nl2nn6baq73a"  ><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a> <a target="_blank" href="https://twitter.com/phellipells"  ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a  target="_blank" href="https://www.linkedin.com/in/luizphellipe/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="https://www.instagram.com/phellipels/"  ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
- 
- <h4>Sometimes i'm here :video_game: </h4>
- <a target="_blank" href="https://steamcommunity.com/id/luizphellipe/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a> <a target="_blank" href="https://my.playstation.com/profile/phellipe5k"  ><img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /></a>
- 
-<h4>My PC Specs</h4>
-<img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i7%203th gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
- 
-</div>
 
 
 <h1 align="center">
@@ -66,6 +55,17 @@
 
 </h1>
 
+<div align="center">
+ <h4>Follow me around the web</h4>
+ <a target="_blank" href="https://open.spotify.com/user/22h65jhto6sw6nl2nn6baq73a"  ><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a> <a target="_blank" href="https://twitter.com/phellipells"  ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a  target="_blank" href="https://www.linkedin.com/in/luizphellipe/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="https://www.instagram.com/phellipels/"  ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ 
+ <h4>Sometimes i'm here :video_game: </h4>
+ <a target="_blank" href="https://steamcommunity.com/id/luizphellipe/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a> <a target="_blank" href="https://my.playstation.com/profile/phellipe5k"  ><img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /></a>
+ 
+<h4>My PC Specs</h4>
+<img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i7%203th gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+ 
+</div>
 
 
 <!--
