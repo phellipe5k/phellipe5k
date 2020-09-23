@@ -13,11 +13,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=exercise-pokedex-router&theme=dark)](https://github.com/phellipe5k/exercise-pokedex-router)
 
 
-<h2 width='200'>
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phellipe5k&show_icons=true&theme=dark) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22h65jhto6sw6nl2nn6baq73a&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
- 
-</h2>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phellipe5k&show_icons=true&theme=dark) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22h65jhto6sw6nl2nn6baq73a&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=22h65jhto6sw6nl2nn6baq73a&redirect=true)
 </h1>
 
 
