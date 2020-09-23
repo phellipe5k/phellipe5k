@@ -4,7 +4,7 @@
 <h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
 
 <h3 align="center">
- <img src="https://www.dartdigital.com.br/wp-content/uploads/2018/02/JS-na-linha-do-tempo-1.gif" width="250" />
+ <img src="https://www.dartdigital.com.br/wp-content/uploads/2018/02/JS-na-linha-do-tempo-1.gif" width="650" />
 </h3>
 <p align="center">
  <i >
