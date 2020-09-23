@@ -4,7 +4,7 @@
 <h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
 
 <h3 align="center">
- <img src="https://hackernoon.com/images/f2px36fy.gif" width="650" />
+ <img src="https://thumbs.gfycat.com/BestMeagerHoki-small.gif" width="650" />
 </h3>
 <p align="center">
  <i >
