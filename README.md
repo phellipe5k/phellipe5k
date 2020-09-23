@@ -1,7 +1,7 @@
 ### 
 
 
-<h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
+<h1 align="center"> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
 
 <h3 align="center">
  <img src="https://media4.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="180" />
