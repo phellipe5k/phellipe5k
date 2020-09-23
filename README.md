@@ -4,7 +4,7 @@
 <h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
 
 <h3 align="center">
- <img src=""/>
+ <img src="https://media4.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="180" />
 </h3>
 <p align="center">
  My name is Luiz Phellipe, I'm 18 years old, from São Paulo, Brazil. I'm in love with web programming and on the road to become a fullstack developer. Currently i'm studying at Trybe, the best programming school in latin america, here in 3 months i learned Javascript, git, HoF and the beginning of React.JS, using props and state.
@@ -13,7 +13,7 @@
 
 <p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="150" /> </p>
 <p align="center"> 
- ** I  *L O V E*  music, I listen everytime that i can and know (a little little bit) how to play guitar ! **
+ I  L O V E  music, I listen everytime that i can and know (a little little bit) how to play guitar ! 
 </p>
 
 
