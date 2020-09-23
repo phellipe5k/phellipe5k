@@ -24,7 +24,7 @@
 
 </h1>
 
-My PC Specs <img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i7%20worstTh gem-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+My PC Specs <img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i7%20worst gem-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
  
 
 
