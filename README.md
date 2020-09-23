@@ -1,4 +1,10 @@
 ### 
+
+<div align="center">
+ <h4>Follow me around the web</h4>
+ <a href="https://open.spotify.com/user/22h65jhto6sw6nl2nn6baq73a"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+</div>
+
 <h1 align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=tony-hawk-character-select-clone&theme=dark)](https://github.com/phellipe5k/tony-hawk-character-select-clone) 
