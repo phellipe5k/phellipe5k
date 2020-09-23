@@ -2,6 +2,8 @@
 
 
 
+I'm 18 years old, in love with web programming and on the road to become a fullstack developer !
+
 <h1 align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=tony-hawk-character-select-clone&theme=dark)](https://github.com/phellipe5k/tony-hawk-character-select-clone) 
