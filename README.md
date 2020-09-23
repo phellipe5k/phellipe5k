@@ -2,7 +2,7 @@
 
 <div align="center">
  <h4>Follow me around the web</h4>
- <a href="https://open.spotify.com/user/22h65jhto6sw6nl2nn6baq73a"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+ <a href="https://open.spotify.com/user/22h65jhto6sw6nl2nn6baq73a" target="_blank" ><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a><a href="https://twitter.com/phellipells" target="_blank" ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/luizphellipe/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.instagram.com/phellipels/" target="_blank" ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 <h1 align="center">
@@ -24,7 +24,7 @@
 
 </h1>
 
-My PC Specs <img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i7%20worst gem-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+My PC Specs <img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
  
 
 
