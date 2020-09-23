@@ -4,7 +4,7 @@
 <h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
 
 <p align="center">
- My name is Luiz Phellipe, I'm 18 years old, from São Paulo, Brazil. I'm in love with web programming and on the road to become a fullstack developer. Currently i'm studying at Trybe, the best programming school in latin america. Sometimes i play games in my computer. I  L O V E  music, i listen everytime that i can and i know a little bit how to play guitar ! 
+ My name is Luiz Phellipe, I'm 18 years old, from São Paulo, Brazil. I'm in love with web programming and on the road to become a fullstack developer. Currently i'm studying at Trybe, the best programming school in latin america. Here in 3 months i learned Javascript, git, HoF and the beginning of React.JS, using props and state. Sometimes i play games in my computer. I  L O V E  music, i listen everytime that i can and i know a little bit how to play guitar ! 
 </p>
 
 
