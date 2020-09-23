@@ -4,17 +4,17 @@
 <h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
 
 <h3 align="center">
- <img src="https://media4.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="180" />
+ <img src="https://www.dartdigital.com.br/wp-content/uploads/2018/02/JS-na-linha-do-tempo-1.gif" width="250" />
 </h3>
 <p align="center">
  <i >
  My name is <strong>Luiz Phellipe</strong>, I'm 18 years old, from <strong>São Paulo, Brazil</strong>. I'm in love with web programming and on the road to become a <br>
- fullstack developer. <strong>Currently i'm studying at Trybe</strong>, the best programming school in latin america, here in 3 months i learned <br>
+ fullstack developer. <strong>Currently I'm studying at Trybe</strong>, the best programming school in latin america, here in 3 months i learned <br>
  <strong>HTML, CSS, Javascript, git, Jest, HoF and the beginning of React.JS, using props and state.</strong>
 </i>
 
 </p>
-<h4 align="center">I work with</h4>
+<h4 align="center">For now I know</h4>
 <p align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
@@ -29,7 +29,7 @@
 
 <p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="100" /> </p>
 <h4 align="center"> 
- I  <i>L O V E</i>  music, I listen everytime that i can and know (a little little bit) how to play guitar ! 
+ I  <i>L O V E</i>  music, I listen everytime that I can and know (a little little bit) how to play guitar ! 
 </h4>
 
 
