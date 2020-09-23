@@ -6,7 +6,7 @@
  My name is Luiz Phellipe, I'm 18 years old.
 </p>
 
-<h2 align="center"> <img src="https://i.gifer.com/4M52.gif" width="100px" /></h2>
+<h2 align="center"> <img src="https://i.gifer.com/4M52.gif"  /></h2>
 In love with web programming and on the road to become a fullstack developer !
 
 
