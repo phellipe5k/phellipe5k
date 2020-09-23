@@ -1,7 +1,7 @@
 ### 
 
 
-# Hello, Everyone! <img src="https://lh3.googleusercontent.com/proxy/m8ntRy-VLnKD1eucddwY8pM4-kmRpCHJkpzSbQWGosXUn88cfDfuKMUlR0zGMYGSF21MDw02WjVEU24pSUPG2aiM8R0s5RTV9b09e6Fqnqjr" width="40px">
+# Hello, Everyone! <img src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif" width="30px">
 <h3>
 I'm 18 years old, in love with web programming and on the road to become a fullstack developer !
 </h3>
