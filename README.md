@@ -7,13 +7,15 @@
  <img src=""/>
 </h3>
 <p align="center">
- My name is Luiz Phellipe, I'm 18 years old, from São Paulo, Brazil. I'm in love with web programming and on the road to become a fullstack developer. Currently i'm studying at Trybe, the best programming school in latin america, here in 3 months i learned Javascript, git, HoF and the beginning of React.JS, using props and state. Sometimes i play games in my computer. 
+ My name is Luiz Phellipe, I'm 18 years old, from São Paulo, Brazil. I'm in love with web programming and on the road to become a fullstack developer. Currently i'm studying at Trybe, the best programming school in latin america, here in 3 months i learned Javascript, git, HoF and the beginning of React.JS, using props and state.
 </p>
 
 
-<p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="150" />
+<p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="150" /> </p>
+<p align="center"> 
+ ** I  *L O V E*  music, I listen everytime that i can and know (a little little bit) how to play guitar ! **
+</p>
 
-I  L O V E  music, I listen everytime that i can and know (a little little bit) how to play guitar ! </p>
 
 
 
