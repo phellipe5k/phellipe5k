@@ -3,8 +3,10 @@
 
 <h1 align="center"> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px">Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px"></h1>
 <p>
-My name is Luiz Phellipe, I'm 18 years old, in love with web programming and on the road to become a fullstack developer !
+ My name is Luiz Phellipe, I'm 18 years old.
 </p>
+
+In love with web programming and on the road to become a fullstack developer !
 
 
 <h1 align="center">
