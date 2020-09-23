@@ -11,8 +11,9 @@
 </p>
 
 
-<h2 align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="150" /></h2>
-I  L O V E  music, I listen everytime that i can and know (a little little bit) how to play guitar ! 
+<p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="150" />
+
+I  L O V E  music, I listen everytime that i can and know (a little little bit) how to play guitar ! </p>
 
 
 
