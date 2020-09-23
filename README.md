@@ -3,7 +3,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=tony-hawk-character-select-clone&theme=dark)](https://github.com/phellipe5k/tony-hawk-character-select-clone)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=rock-papper-scissors&theme=dark)](https://github.com/phellipe5k/rock-papper-scisor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=rock-paper-scissors&theme=dark)](https://github.com/phellipe5k/rock-paper-scisor)
 
 
 <!--
