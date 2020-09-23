@@ -6,7 +6,14 @@
  
  <h4>Sometimes i'm here :video_game: </h4>
  <a target="_blank" href="https://steamcommunity.com/id/luizphellipe/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a> <a target="_blank" href="https://my.playstation.com/profile/phellipe5k"  ><img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /></a>
+ 
+<h4>My PC Specs</h4>
+<img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+ 
 </div>
+
+
+ 
 
 <h1 align="center">
 
@@ -26,8 +33,6 @@
 
 </h1>
 
-My PC Specs <img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
- 
 
 
 
