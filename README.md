@@ -12,16 +12,20 @@
  fullstack developer. <strong>Currently i'm studying at Trybe</strong>, the best programming school in latin america, here in 3 months i learned <br>
  <strong>HTML, CSS, Javascript, git, Jest, HoF and the beginning of React.JS, using props and state.</strong>
 </i>
-<h4>Front-end</h4>
+
+</p>
+<p align="center">
+<h4>I work with</h4>
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 <code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png"></code>
-
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
+<code><img height="30" src="https://img.stackshare.io/service/5204/bulma-logo.png"></code>
+<code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 </p>
-
 
 <p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="100" /> </p>
 <h4 align="center"> 
