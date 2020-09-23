@@ -1,16 +1,19 @@
 ### 
 
 
-<h1 align="center"> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
+<h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
 
 <h3 align="center">
  <img src="https://media4.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="180" />
 </h3>
-<i align="center">
+<p align="center">
+ <i >
  My name is <strong>Luiz Phellipe</strong>, I'm 18 years old, from <strong>São Paulo, Brazil</strong>. I'm in love with web programming and on the road to become a <br>
  fullstack developer. <strong>Currently i'm studying at Trybe</strong>, the best programming school in latin america, here in 3 months i learned <br>
  <strong>HTML, CSS, Javascript, git, Jest, HoF and the beginning of React.JS, using props and state.</strong>
 </i>
+
+</p>
 
 
 <p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="100" /> </p>
