@@ -4,7 +4,7 @@
 <h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
 
 <h3 align="center">
- <img src="https://thumbs.gfycat.com/BestMeagerHoki-small.gif" width="650" />
+ <img src="https://thumbs.gfycat.com/BestMeagerHoki-small.gif" width="450" />
 </h3>
 <p align="center">
  <i >
@@ -31,7 +31,7 @@
 <h4 align="center"> 
  I  <i>L O V E</i>  music, I listen everytime that I can and know (a little little bit) how to play guitar ! 
 </h4>
-<h3 align="center"> :arrow_down: SOCIAL MEDIA AND STUFFS, AT THE END :arrow_down: </h3>
+<h3 align="center"> :arrow_down: SOCIAL MEDIA AND STUFFS, IN THE END :arrow_down: </h3>
 
 
 
