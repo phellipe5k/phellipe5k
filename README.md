@@ -20,7 +20,7 @@
 </h1>
 
 <div>
-<img src="https://camo.githubusercontent.com/7c9c404b5cbf8e272796972d2ac1d410b198865f/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d32326836356a68746f367377366e6c326e6e3662617137336126636f7665725f696d6167653d74727565" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=22h65jhto6sw6nl2nn6baq73a&amp;cover_image=true" style="max-width:100px !important;" width="200"></a><img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" height="200" /> <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" height="200" />
+<img src="https://camo.githubusercontent.com/7c9c404b5cbf8e272796972d2ac1d410b198865f/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d32326836356a68746f367377366e6c326e6e3662617137336126636f7665725f696d6167653d74727565" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=22h65jhto6sw6nl2nn6baq73a&amp;cover_image=true" style="max-width:100px !important;" width="200"></a><img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"  />
  
 </div>
 
