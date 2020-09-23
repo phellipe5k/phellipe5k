@@ -1,8 +1,10 @@
 ### 
 
-
+<h2 align="center">
 
 I'm 18 years old, in love with web programming and on the road to become a fullstack developer !
+</h2>
+
 
 <h1 align="center">
 
