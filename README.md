@@ -1,7 +1,7 @@
 ### 
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3>
 I'm 18 years old, in love with web programming and on the road to become a fullstack developer !
 </h3>
