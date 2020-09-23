@@ -14,7 +14,7 @@
 
 
 <h2 width='200'>
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phellipe5k&show_icons=true&theme=dark)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22h65jhto6sw6nl2nn6baq73a&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phellipe5k&show_icons=true&theme=dark) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22h65jhto6sw6nl2nn6baq73a&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 </h2>
 </h1>
 
