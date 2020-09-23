@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phellipe5k&show_icons=true&theme=tokyonight)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=tony-hawk-character-select-clone)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **phellipe5k/phellipe5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
