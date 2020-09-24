@@ -26,7 +26,7 @@
 
 <p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="100" /> </p>
 <h4 align="center"> 
- I  <i>L O V E</i>  music, I listen everytime that I can and know (a little little bit) how to play guitar ! 
+ I  <i>L O V E</i>  music, I listen for it my whole day and I know (a little little bit) play guitar ! 
 </h4>
 <h3 align="center"> :arrow_down: SOCIAL MEDIA AND STUFFS, IN THE END :arrow_down: </h3>
 
