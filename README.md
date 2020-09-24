@@ -7,7 +7,7 @@
  <i >
  My name is <strong>Luiz Phellipe</strong>, I'm 18 years old, from <strong>São Paulo, Brazil</strong>. I'm in love with web programming and on the road to become a <br>
  fullstack developer. <strong>Currently I'm studying at Trybe</strong>, the best programming school in latin america. Here, in 3 months i learned <br>
- <strong>HTML, CSS, Javascript, git, Jest, HoF and the beginning of React.JS, using props and state.</strong>
+ <strong>HTML, CSS, Javascript, git, Jest, HoF and the beginning of React.JS, using props, state and router-dom.</strong>
 </i>
 
 </p>
