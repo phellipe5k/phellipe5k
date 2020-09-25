@@ -25,9 +25,9 @@
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></code>
 </p>
 
-<p align="cente"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="100" /> </p>
+
 <h4 align="cente"> 
- I  <i>L O V E</i>  music, I listen for it my whole day and I know (a little little bit) play guitar ! 
+ <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="100" />I  <i>L O V E</i>  music, I listen for it my whole day and I know (a little little bit) play guitar ! 
 </h4>
 <h3 align="cente"> :arrow_down: SOCIAL MEDIA AND STUFFS :arrow_down: </h3>
 
