@@ -55,7 +55,7 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=todolistphellipe&theme=dark)](https://github.com/phellipe5k/todolistphellipe) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=exercise-pokedex-router&theme=dark)](https://github.com/phellipe5k/exercise-pokedex-router)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=exercise-pokedex-router&theme=dark)](https://github.com/phellipe5k/exercise-pokedex-routerr)
 
 
 </h1>
