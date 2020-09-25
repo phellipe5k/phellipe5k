@@ -43,7 +43,7 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=ip-address-tracker&theme=dark)](https://github.com/phellipe5k/ip-address-tracker) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=backgroundgenerator&theme=dark)](https://github.com/phellipe5k/backgroundgenerator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=rest-countries-api-with-color-theme-switcher&theme=dark)](https://github.com/phellipe5k/backgroundgenerator)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=todolistphellipe&theme=dark)](https://github.com/phellipe5k/todolistphellipe) 
