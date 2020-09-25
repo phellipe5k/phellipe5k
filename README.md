@@ -54,7 +54,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=rest-countries-api-with-color-theme-switcher&theme=dark)](https://github.com/phellipe5k/rest-countries-api-with-color-theme-switcher)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=todolistphellipe5k&theme=dark)](https://github.com/phellipe5k/todolistphellipe5k) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=to-do-list-phellipe5k&theme=dark)](https://github.com/phellipe5k/to-do-list-phellipe5k) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=pokedex-router&theme=dark)](https://github.com/phellipe5k/pokedex-router)
 
 
