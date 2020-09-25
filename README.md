@@ -3,7 +3,7 @@
 
 <h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
 
-<p align="center">
+<p align="cente">
  <i >
  My name is <strong>Luiz Phellipe</strong>, I'm 18 years old, from <strong>São Paulo, Brazil</strong>. I'm in love with web programming and on the road to become a <br>
  fullstack developer. <strong>Currently I'm studying at Trybe</strong>, the best programming school in latin america. Here, in 3 months i learned <br>
@@ -11,8 +11,8 @@
 </i>
 
 </p>
-<h4 align="center">For now I know</h4>
-<p align="center">
+<h4 align="cente">For now I know</h4>
+<p align="cente">
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
@@ -25,13 +25,13 @@
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></code>
 </p>
 
-<p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="100" /> </p>
-<h4 align="center"> 
+<p align="cente"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="100" /> </p>
+<h4 align="cente"> 
  I  <i>L O V E</i>  music, I listen for it my whole day and I know (a little little bit) play guitar ! 
 </h4>
-<h3 align="center"> :arrow_down: SOCIAL MEDIA AND STUFFS :arrow_down: </h3>
+<h3 align="cente"> :arrow_down: SOCIAL MEDIA AND STUFFS :arrow_down: </h3>
 
-<div align="center">
+<div align="cente">
  <h4>Follow me around the web</h4>
  <a target="_blank" href="https://open.spotify.com/user/22h65jhto6sw6nl2nn6baq73a"  ><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a> <a target="_blank" href="https://twitter.com/phellipells"  ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a  target="_blank" href="https://www.linkedin.com/in/luizphellipe/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="https://www.instagram.com/phellipels/"  ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
  
