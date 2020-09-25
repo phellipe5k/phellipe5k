@@ -46,16 +46,16 @@
 </a><a href="https://github.com/phellipe5k?tab=repositories" rel="nofollow"><img height="250" src="https://github-readme-stats.vercel.app/api?username=phellipe5k&show_icons=true&theme=dark"/></a>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=tony-hawk-character-select-clon&theme=dark)](https://github.com/phellipe5k/tony-hawk-character-select-clone) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=rock-paper-scissor&theme=dark)](https://github.com/phellipe5k/rock-paper-scisor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=tony-hawk-character-select-clone&theme=dark)](https://github.com/phellipe5k/tony-hawk-character-select-clone) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=rock-paper-scissors&theme=dark)](https://github.com/phellipe5k/rock-paper-scisor)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=ip-address-tracke&theme=dark)](https://github.com/phellipe5k/ip-address-tracker) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=rest-countries-api-with-color-theme-switche&theme=dark)](https://github.com/phellipe5k/rest-countries-api-with-color-theme-switcher)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=ip-address-tracker&theme=dark)](https://github.com/phellipe5k/ip-address-tracker) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=rest-countries-api-with-color-theme-switcher&theme=dark)](https://github.com/phellipe5k/rest-countries-api-with-color-theme-switcher)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=todolistphellip&theme=dark)](https://github.com/phellipe5k/todolistphellipe) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=exercise-pokedex-route&theme=dark)](https://github.com/phellipe5k/exercise-pokedex-router)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=todolistphellipe&theme=dark)](https://github.com/phellipe5k/todolistphellipe) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phellipe5k&repo=exercise-pokedex-router&theme=dark)](https://github.com/phellipe5k/exercise-pokedex-router)
 
 
 </h1>
