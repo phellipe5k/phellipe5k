@@ -22,6 +22,7 @@
 <code><img height="30" src="https://img.stackshare.io/service/5204/bulma-logo.png"></code>
 <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></code>
+<code><img height="30" src="https://www.pngitem.com/pimgs/m/295-2954213_jquery-logo-png-transparent-background-png-download.png"></code>
 </p>
 
 <p align="center"> <img src="https://media3.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" width="100" /> </p>
