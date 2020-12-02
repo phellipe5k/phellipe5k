@@ -11,7 +11,7 @@
 </i>
 
 </p>
-<h4 align="cente">For now I know</h4>
+<h4 align="cente">Main abilities</h4>
 <p align="cente">
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></code>
 <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
