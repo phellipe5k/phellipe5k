@@ -13,16 +13,17 @@
 </p>
 <h4 align="cente">For now I know</h4>
 <p align="cente">
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
-<code><img height="30" src="https://www.pngitem.com/pimgs/m/295-2954213_jquery-logo-png-transparent-background-png-download.png"></code>
-<code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="30" src="https://img.stackshare.io/service/5204/bulma-logo.png"></code>
-<code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></code>
+<code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
+<code><img height="30" src="https://www.pngitem.com/pimgs/m/295-2954213_jquery-logo-png-transparent-background-png-download.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
+<code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png"></code>
+<code><img height="30" src="https://testing-library.com/img/octopus-128x128.png"></code>
 </p>
 
 <h3 align="cente"> :arrow_down: SOCIAL MEDIA AND STUFFS :arrow_down: </h3>
