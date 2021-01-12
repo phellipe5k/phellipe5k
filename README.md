@@ -58,13 +58,6 @@
 
 </h1>
 
-<div align="center">
-
-<h4>My PC Specs</h4>
-<img src="https://img.shields.io/badge/amd-Radeon%20R9%20270x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i7%203th gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
- 
-</div>
-
 
 <!--
 **phellipe5k/phellipe5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
