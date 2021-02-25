@@ -6,7 +6,7 @@
 <p align="cente">
  <i >
  My name is <strong>Luiz Phellipe</strong>, I'm 18 years old, from <strong>São Paulo, Brazil</strong>. I'm in love with web programming and on the road to become a <br>
- fullstack developer. <strong>Currently I'm studying at Trybe</strong>. Here, in 6 months i learned <br>
+ fullstack developer. <strong>Currently I'm studying at Trybe</strong>. Here, in 6 months i learned 
  <strong>Javascript, git, Jest, HoF, React.JS, redux, context api and now i'm learing node.js in back-end, to create Rest API'S wich i already lerned MySql, Mongodb, JWT, using MSC architecture pattern. Studying on my own, i learned Next.Js and Styled Components, to make my apps better. </strong>
 </i>
 
