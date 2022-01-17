@@ -1,15 +1,5 @@
 ### 
 
-
-<h1> <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" />Hello, Everyone! <img src="https://i.pinimg.com/originals/83/18/10/831810ce8bc9da8a69698405fd1cae96.gif" width="40px" /></h1>
-
-<p align="cente">
- <i >
- My name is <strong>Luiz Phellipe</strong>, I'm 18 years old, from <strong>São Paulo, Brazil</strong>. I'm in love with web programming and on the road to become a <br>
- fullstack developer. <strong>Currently I'm studying at Trybe</strong>. Here, in 6 months i learned 
- <strong>Javascript, git, Jest, HoF, React.JS, redux, context api and now i'm learing node.js in back-end, to create Rest API'S wich i already lerned MySql, Mongodb, JWT, using MSC architecture pattern. Studying on my own, i learned Next.Js and Styled Components, to make my apps better. </strong>
-</i>
-
 </p>
 <h4 align="cente">Main abilities</h4>
 <p align="cente">
