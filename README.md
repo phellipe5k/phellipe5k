@@ -14,6 +14,7 @@
 <h3 align="cente"> :arrow_down: SOCIAL MEDIA AND STUFFS :arrow_down: </h3>
 
 <div align="cente">
+ <a href="https://www.luisarbezerra.com" rel="nofollow"><img src="https://camo.githubusercontent.com/4903b1622b93d6b463a65bfd79c818140334fb599ee94d2c3143a3ba58683138/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e6f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white" style="max-width: 100%;"></a>
  <a  target="_blank" href="https://www.linkedin.com/in/luizphellipe/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="https://www.instagram.com/phellipels/"  ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
  
 </div>
