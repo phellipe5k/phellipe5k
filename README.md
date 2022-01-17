@@ -14,7 +14,7 @@
 <h3 align="cente"> :arrow_down: SOCIAL MEDIA AND STUFFS :arrow_down: </h3>
 
 <div align="cente">
- <a target="_blank" href="https://open.spotify.com/user/22h65jhto6sw6nl2nn6baq73a"  ><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a> <a target="_blank" href="https://twitter.com/phellipells"  ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a  target="_blank" href="https://www.linkedin.com/in/luizphellipe/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="https://www.instagram.com/phellipels/"  ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a  target="_blank" href="https://www.linkedin.com/in/luizphellipe/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="https://www.instagram.com/phellipels/"  ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
  
 </div>
 
