@@ -1,7 +1,7 @@
 ### 
 
 </p>
-<div>
+<div style="display: flex;">
  
 <img src="https://www.egeniq.nl/sites/default/files/2020-06/frontend_webdeveloper.jpg" height="200" />
  <pre>
