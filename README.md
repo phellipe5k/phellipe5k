@@ -1,8 +1,19 @@
 ### 
 
 </p>
-
+<div>
+ 
 <img src="https://www.egeniq.nl/sites/default/files/2020-06/frontend_webdeveloper.jpg" height="200" />
+ <pre>
+  <code>
+Software Developer at @55pbx
+
+- Fullstack Developer
+- Product Design
+- São Paulo, SP 
+  </code>
+ </pre>
+</div>
 <p align="cente">
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
 <code><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/nextjs.png"></code>
