@@ -6,7 +6,10 @@
 <img src="https://www.egeniq.nl/sites/default/files/2020-06/frontend_webdeveloper.jpg" height="200" />
  <pre>
   <code>
-Software Developer at @55pbx - Fullstack Developer - Digital Product Design - São Paulo, SP 
+Software Developer at @55pbx
+- Fullstack Developer
+- Digital Product Design
+- São Paulo, SP 
   </code>
  </pre>
 </div>
