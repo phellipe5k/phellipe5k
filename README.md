@@ -8,6 +8,7 @@
   <code>
 Software Developer at @55pbx
 - Fullstack Developer
+- I 🖤 Front-end
 - Digital Product Design
 - São Paulo, SP 
   </code>
