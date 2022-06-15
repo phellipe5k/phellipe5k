@@ -1,25 +1,58 @@
-<h1 align="center">Hi 👋, I'm Luiz Andrade</h1>
-<h3 align="center">Software Developer</h3>
+### 
 
-![Metrics](https://metrics.lecoq.io/phellipe5k)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phellipe5k&label=Profile%20views&color=0e75b6&style=flat" alt="phellipe5k" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phellipe5k" alt="phellipe5k" /></a> </p>
-
-- 🔭 I’m currently working on **55pbx**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luizandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizandrade" height="30" width="40" /></a>
-<a href="https://instagram.com/phellipels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phellipels" height="30" width="40" /></a>
+</p>
+<div style="display: flex;">
+ 
+<img src="https://www.egeniq.nl/sites/default/files/2020-06/frontend_webdeveloper.jpg" height="200" />
+ <pre>
+  <code>
+Software Developer at @55pbx
+- Fullstack Developer
+- I 🖤 Front-end development
+- Digital Product Design
+- 20 years old
+- São Paulo, SP 
+  </code>
+ </pre>
+</div>
+<p align="center">
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
+<code><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/nextjs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
+<code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png"></code>
+<code><img height="30" src="https://testing-library.com/img/octopus-128x128.png"></code>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<div align="cente">
+ <a href="https://phellipe.hashnode.dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/4903b1622b93d6b463a65bfd79c818140334fb599ee94d2c3143a3ba58683138/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e6f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a  target="_blank" href="https://www.linkedin.com/in/luizphellipe/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="https://www.instagram.com/phellipels/"  ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phellipe5k&show_icons=true&locale=en&layout=compact" alt="phellipe5k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phellipe5k&show_icons=true&locale=en" alt="phellipe5k" /></p>
+![Phellipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=tru](https://github-readme-stats.vercel.app/api/top-langs/?username=phellipe5k&theme=radical&hide=html,css,ejs)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phellipe5k&" alt="phellipe5k" /></p>
+<!--
+**phellipe5k/phellipe5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=phellipe5k&theme=radical&hide=html,css,ejs
+
+https://spotify-recently-played-readme.vercel.app/api?user=22h65jhto6sw6nl2nn6baq73a&width=320
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=phellipe5k&hide=html,css,ejs&layout=compact&theme=radical
+
+https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true
+-->
