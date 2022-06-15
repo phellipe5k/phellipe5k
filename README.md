@@ -31,7 +31,7 @@ Software Developer at @55pbx
 </div>
 
 
-![Phellipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=tru](https://github-readme-stats.vercel.app/api/top-langs/?username=phellipe5k&theme=radical&hide=html,css,ejs)
+![Phellipe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phellipe5k&theme=radical&hide=html,css,ejs)
 
 <!--
 **phellipe5k/phellipe5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
