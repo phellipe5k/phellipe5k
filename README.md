@@ -44,6 +44,9 @@ Fullstack Developer at @55pbx
  
 <h3>My latest posts</h3>
 <ul>
+  <li><a href="[https://phellipe.hashnode.dev/generate-files-automatically-with-plopjs-and-handlebars"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Generate files automatically with PLOP.Js and handlebars</b></a><br/><i>React / Vue components, controllers and models on back-end, doesn't matter, you can use it anywhere!</i></li>
+</ul>
+<ul>
   <li><a href="https://phellipe.hashnode.dev/use-vs-code-faster"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Use VS Code faster than you take and avoid the mouse use!</b></a><br/><i>Do you want to be more productive on VS Code? read more about it here.</i></li>
 </ul>
 <hr>
