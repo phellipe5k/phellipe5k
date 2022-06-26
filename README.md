@@ -21,6 +21,7 @@ Fullstack Developer at @55pbx
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-933E4C?style=flat-square&logo=jest&logoColor=white" />
   <img alt="React testing library" src="https://img.shields.io/badge/-React%20testing%20library-CC2423?style=flat-square&logo=testinglibrary&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Storybook-FF508B?style=flat-square&logo=storybook&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular%20Js-DD0031?style=flat-square&logo=angularjs&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
