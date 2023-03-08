@@ -7,6 +7,7 @@ Fullstack Developer at @55pbx
 - São Paulo, SP 
 - I 🖤 Front-end development
 - Digital Product Design
+- JAMStack
 - Specializing on Fullstack Web3 development
   </code>
  </pre>
